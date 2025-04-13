@@ -1,0 +1,1 @@
+{"cpes": ["cpe:/a:jquery:jquery", "cpe:/a:angularjs:angular.js:1.6.9", "cpe:/a:lodash:lodash"], "hostnames": ["tryhackme.com"], "ip": "104.22.54.228", "ports": [80, 443, 2052, 2053, 2082, 2083, 2086, 2087, 2096, 8080, 8443, 8880], "tags": ["cdn"], "vulns": ["CVE-2024-21490", "CVE-2024-8372", "CVE-2024-8373", "CVE-2019-10768", "CVE-2020-7676"]}
