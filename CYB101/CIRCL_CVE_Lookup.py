@@ -20,4 +20,8 @@ def get_cve(cve):
     
     return None
 
-get_cve("CVE-2015-3194")
+# Create a user input for entry of any CVE to be queried
+user_input = input("Enter your desired CVE keyword in the form of CVE-####-xyz: ")
+get_cve(user_input)
+
+# get_cve("CVE-2015-3194")
